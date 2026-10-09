@@ -1,0 +1,6 @@
+{
+  "name": "Queen Phone",
+  "description": "Visual family phone designed for seniors to call loved ones by touching their photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

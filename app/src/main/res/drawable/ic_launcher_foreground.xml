@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Golden Royal Crown -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M38,42 L34,28 L46,35 L54,24 L62,35 L74,28 L70,42 Z" />
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M38,42 L70,42 L68,45 L40,45 Z" />
+    <!-- Crown Jewels -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,23 A2,2 0 1 0 54,27 A2,2 0 1 0 54,23 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,27 A1.5,1.5 0 1 0 34,30 A1.5,1.5 0 1 0 34,27 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,27 A1.5,1.5 0 1 0 74,30 A1.5,1.5 0 1 0 74,27 Z" />
+
+    <!-- Telephone Handset Silhouette in Bright White -->
+    <!-- Centered phone handset at (54, 62) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66.5,69.5 C64.1,69.5 61.8,69.1 59.6,68.4 C58.9,68.1 58.1,68.3 57.6,68.9 L54.7,72.4 C49.6,69.8 45.4,65.6 42.8,60.5 L46.3,57.5 C46.8,57.0 47.0,56.2 46.8,55.5 C46.1,53.3 45.7,51.0 45.7,48.6 C45.7,47.5 44.8,46.6 43.7,46.6 L38.3,46.6 C37.2,46.6 36.3,47.5 36.3,48.6 C36.3,65.3 49.8,78.8 66.5,78.8 C67.6,78.8 68.5,77.9 68.5,76.8 L68.5,71.5 C68.5,70.4 67.6,69.5 66.5,69.5 Z" />
+
+    <!-- Warm Glowing Heart in Phone Receiver -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M66,50 C64.5,48 61,48.5 60.5,50.5 C60,48.5 56.5,48 55,50 C53,52.5 56,56 60.5,59 C65,56 68,52.5 66,50 Z" />
+
+</vector>
